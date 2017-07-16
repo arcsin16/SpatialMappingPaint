@@ -14,7 +14,8 @@
 		}
 		LOD 200
 
-		// 1st Pass. hecom様謹製 Occlusion用シェーダー定義
+		// 1st Pass. 凹みTips様のOcclusion用シェーダーを利用
+		// https://github.com/hecomi/HoloLensPlayground/blob/master/Assets/Holo_Spatial_Shading/Shaders/Occlusion.shader
 		UsePass "HoloLens/SpatialMapping/Occlusion/OCCLUSION"
 
 		// 2nd Pass. 走査線描画用シェーダー定義
