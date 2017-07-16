@@ -1,4 +1,8 @@
-This project is a part of [HoloInkShooter](https://www.microsoft.com/ja-jp/store/p/holoinkshooter/9mt0vk0kzjz8). It contains Bullet firing and SpatialMapping painting elements.
+This project is a part of [HoloInkShooter](https://www.microsoft.com/ja-jp/store/p/holoinkshooter/9mt0vk0kzjz8). It contains bullet firing and SpatialMapping painting elements.
+
+If you want sound effect, please set Main scene's Managers/ShootingManagers/ShootingManager/Fire Sound and BulletPrefab's BulletBehaviour/Splash Sound.
+
+HoloInkShooter uses [Taira Komori's Japanese Free Sound Effects's](http://taira-komori.jpn.org/attack01en.html) "knocking a wall" as Fire Sound, and [効果音ラボ's](http://soundeffect-lab.info/sound/various/) "水滴3" as Splash Sound.
 
 Required Software
 -------
